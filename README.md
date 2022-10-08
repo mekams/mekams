@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **portfolio website**
 
-- 🌱 I’m currently learning **Javascript,React,Express JS,D Jango**
+- 🌱 I’m currently learning **Javascript,React,Express JS,D Jango,Bootstrap**
 
 - 📫 How to reach me **kamraneg@gmail.com**
 
