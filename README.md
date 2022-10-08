@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kamraneg@gmail.com**
 
-- ⚡ Fun fact **I am a little fast at work though I think! :)**
+- ⚡ Fun fact **I am a little lazy sometimes though I think! :)**
 
 <p align="center"><img src="https://github.com/mekams/Linux-Cmd/blob/868f7adad4c9a1b0c5a987eb2300a75062a815b8/Images/Full%20stack%20web%20developer.gif?raw=true" alt="Web Developer"></p>
 
