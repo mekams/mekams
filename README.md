@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I am a little lazy though I think!**
 
-<p><img src ="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="image.gif" width="300" height="300"></p>
+<p align="center"><img src ="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="image.gif"></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
