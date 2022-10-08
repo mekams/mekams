@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I am a little lazy though I think!**
 
-<p align="center"><img src="http://www.web24zone.com/wp-content/uploads/2022/09/2c778e_89d09c380b7b4a09bcdbcb329c4734b3_mv2.gif" alt="this.onerror=null;this.src='https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif';"></p>
+<p align="center"><img src="http://www.web24zone.com/wp-content/uploads/2022/09/2c778e_89d09c380b7b4a09bcdbcb329c4734b3_mv2.gi" alt="this.onerror=null;this.src='https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif';"></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
