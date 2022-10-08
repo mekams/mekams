@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I am a little lazy though I think!**
 
-<p align="center"><img src="http://www.web24zone.com/wp-content/uploads/2022/09/2c778e_89d09c380b7b4a09bcdbcb329c4734b3_mv2.gi" alt="Gif"></p>
+<p align="center"><img src="https://github.com/mekams/Linux-Cmd/blob/868f7adad4c9a1b0c5a987eb2300a75062a815b8/Images/Full%20stack%20web%20developer.gif?raw=true" alt="Web Developer"></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
