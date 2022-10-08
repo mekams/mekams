@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I am a little lazy though I think!**
 
-<p><img src ="https://www.softprodigy.com/wp-content/uploads/2021/06/JS-Development-Gif.gif"></p>
+<p><img src ="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" width="50" height="50"></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
