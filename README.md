@@ -9,7 +9,8 @@
 
 - 📫 How to reach me **kamraneg@gmail.com**
 
-- ⚡ Fun fact **I am a little lazy sometimes though I think! but when I am serious with work then whether it's day or night it doesn't matter. :)**
+- ⚡ Fun fact **I am a little lazy sometimes though I think! <br>
+                but when I am working then silence is the booster for me:)**
 
 <p align="center"><img src="https://github.com/mekams/Linux-Cmd/blob/868f7adad4c9a1b0c5a987eb2300a75062a815b8/Images/Full%20stack%20web%20developer.gif?raw=true" alt="Web Developer"></p>
 
