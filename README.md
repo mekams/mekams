@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on my skills to make **portfolio & Ecommerce websites.**
 
-- #️⃣ I have knowledge and experience of **HTML, CSS, Javascript,Bootstrap, Tailwind, React Js & MySql**
+- #️⃣ I have working experience with **HTML, CSS, Javascript, Node.js, Bootstrap, Tailwind, React Js & MySql**
 
-- 🌱 I’m currently learning **Express Js, MongoDB and Mongoose**
+- 🌱 I’m currently learning & have basic exposure of **AWS, Express Js, MongoDB and Mongoose**
 
 - 📫 How to reach me ? **kamraneg@gmail.com**
 
