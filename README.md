@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mekams&label=Profile%20views&color=0e75b6&style=flat" alt="mekams" /> </p>
 
-- 🔭 I’m currently working on **portfolio website & various projects which will be revealed soon.**
+- 🔭 I’m currently working on my skills to make **portfolio & Ecommerce websites.**
+- 
+- #️⃣ I have knowledge and experience of **HTML, CSS, Javascript,Bootstrap, Tailwind, React Js & MySql**
 
-- 🌱 I’m currently learning **Javascript,React,Express JS,D Jango,Bootstrap**
+- 🌱 I’m currently learning **Express Js,MongoDB and Mongoose**
 
 - 📫 How to reach me ? **kamraneg@gmail.com**
 
