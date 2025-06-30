@@ -95,17 +95,4 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mekams/mekams/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mekams/mekams/output/github-contribution-grid-snake.svg" />
-    <img alt="snake graph" src="https://raw.githubusercontent.com/mekams/mekams/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
-
----
-
 > ⚡ “I don’t just write code — I solve problems, automate work, and create tools people love.”
