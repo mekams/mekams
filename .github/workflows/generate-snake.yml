@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # every day at midnight
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -12,7 +12,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Generate the snake
+      - name: Generate Snake SVGs
         uses: Platane/snk@v3
         with:
           github_user_name: mekams
@@ -20,7 +20,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push to output branch
+      - name: Push snake SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
