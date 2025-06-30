@@ -1,30 +1,111 @@
-<h1 align="center">Hi 👋, I'm Kamran Mustafa</h1>
-<h3 align="center">Full-Stack Web Development Enthusiast</h3>
+# Hey there! 👋 I'm Kamran Mustafa
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mekams&label=Profile%20views&color=0e75b6&style=flat" alt="mekams" /> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7941E&width=435&lines=Full-stack+Developer+%F0%9F%91%BB;AI+Explorer+%F0%9F%A7%96%E2%80%8D%E2%99%82%EF%B8%8F;Open+Source+Contributor+%F0%9F%94%A5;Code.+Ship.+Repeat." alt="Typing SVG" />
 
-- 🔭 I’m currently working on my skills to make **portfolio & Ecommerce websites.**
+---
 
-- #️⃣ I have working experience with **HTML, CSS, Javascript, Node.js, Bootstrap, Tailwind, React Js & MySql**
+## 🚀 About Me
 
-- 🌱 I’m currently learning & have basic exposure of **AWS, Express Js, MongoDB and Mongoose**
+🧑‍💻 Full-stack developer & AI enthusiast  
+📍 Birmingham, UK  
+🎓 MSc Computer Science (Distinction)  
+⚙️ Building modern UIs, scalable APIs, and AI-based tools  
+🧠 Currently exploring: **LangChain**, **AI Agents**, **CI/CD automation**
 
-- 📫 How to reach me ? **kamraneg@gmail.com**
+---
 
-- ⚡ Fun fact **I am a little lazy sometimes though I think!</br>When I work with patience and a little silence it really boosts me up :)**
+## 🏆 GitHub Trophies
 
-<p align="center"><img src="https://github.com/mekams/Linux-Cmd/blob/868f7adad4c9a1b0c5a987eb2300a75062a815b8/Images/Full%20stack%20web%20developer.gif?raw=true" alt="Web Developer"></p>
+[![Trophies](https://github-profile-trophy.vercel.app/?username=mekams&theme=monokai&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 🧰 Tech Stack
+
 <p align="left">
-  <a href="https://linkedin.com/in/kamran51" target= "_blank "><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linked.com/in/kamran51" height="30" width="40" /></a>
-<a href="https://fb.com/kamran51" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kamran51" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,mongodb,mysql,postgres,docker,aws,git,github,vscode,tailwind,bootstrap,figma,streamlit" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mekams&show_icons=true&locale=en&layout=compact" alt="mekams" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mekams&show_icons=true&locale=en" alt="mekams" /></p>
+## ✨ Cool Stuff I’ve Built
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mekams&" alt="mekams" /></p>
+| Project | Description | Live |
+|--------|-------------|------|
+| 📝 [Resume Builder](https://resume-builder-mekams.vercel.app/) | Multi-template PDF resume generator using React + jsPDF | ✅ |
+| 🍕 [Pizza Pulse](https://pizza-pulse-delivery.vercel.app/home) | Pizza delivery web app with cart and live tracking | ✅ |
+| 📹 [K-Tube](https://k-tube.netlify.app/) | YouTube clone with video search/playback | ✅ |
+| 🧠 [LangChain Summarizer](https://langtextsum.streamlit.app/) | Hybrid summarizer using LLMs + ROUGE evaluation | ✅ |
+| 📊 [SQL Insights DB](https://github.com/mekams/MySql-databse-Project) | MySQL project with 13+ entities and KPI queries | ✅ |
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<!-- Streaks -->
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=mekams&theme=monokai&hide_border=true" 
+  alt="GitHub Streak"
+/>
+
+<br /><br />
+
+<!-- Stats and Languages -->
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=mekams&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+  alt="GitHub Stats" 
+  height="180"
+/>
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mekams&layout=compact&theme=tokyonight&hide_border=true" 
+  alt="Top Languages" 
+  height="180"
+/>
+
+</div>
+
+---
+
+## 📅 Contributions & Profile
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mekams&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/mekams?label=Followers&style=social" />
+  <img src="https://badgen.net/github/commits/mekams/MySql-databse-Project" />
+  <img src="https://badgen.net/github/contributors/mekams/MySql-databse-Project" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- 🤖 Agentic workflows with **LangChain** & **LLMs**
+- ⚙️ CI/CD automation with **Docker**, **GitHub Actions**
+- 📊 Streamlit dashboards & NLP evaluation metrics
+
+---
+
+## 💬 Let’s Connect
+
+- 🌐 [Portfolio](https://kamraneg.com)
+- 💼 [LinkedIn](https://linkedin.com/in/kamran51)
+- 📧 [Email Me](mailto:kamraneg@gmail.com)
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mekams/mekams/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mekams/mekams/output/github-contribution-grid-snake.svg" />
+    <img alt="snake graph" src="https://raw.githubusercontent.com/mekams/mekams/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+
+---
+
+> ⚡ “I don’t just write code — I solve problems, automate work, and create tools people love.”
